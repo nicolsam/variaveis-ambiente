@@ -1,0 +1,8 @@
+{
+    "name": "nicol/env",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        }
+    }
+}
